@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dust.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dust0000" x="0" y="0" width="453" height="678"/>
+	<SubTexture name="dust0001" x="0" y="0" width="453" height="678"/>
+	<SubTexture name="dust0002" x="503" y="0" width="453" height="678"/>
+	<SubTexture name="dust0003" x="503" y="0" width="453" height="678"/>
+	<SubTexture name="dust0004" x="1006" y="0" width="453" height="678"/>
+	<SubTexture name="dust0005" x="1006" y="0" width="453" height="678"/>
+	<SubTexture name="dust0006" x="1509" y="0" width="453" height="678"/>
+	<SubTexture name="dust0007" x="1509" y="0" width="453" height="678"/>
+	<SubTexture name="dust0008" x="0" y="728" width="453" height="678"/>
+	<SubTexture name="dust0009" x="0" y="728" width="453" height="678"/>
+	<SubTexture name="dust0010" x="0" y="728" width="453" height="678"/>
+	<SubTexture name="dust0011" x="0" y="728" width="453" height="678"/>
+	<SubTexture name="dust0012" x="0" y="728" width="453" height="678"/>
+	<SubTexture name="dust0013" x="0" y="728" width="453" height="678"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minion.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="minion0000" x="0" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0001" x="0" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0002" x="726" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0003" x="726" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0004" x="1452" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0005" x="1452" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0006" x="2178" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0007" x="2178" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0008" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0009" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0010" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0011" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0012" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion0013" x="2904" y="0" width="676" height="1028"/>
+	<SubTexture name="minion death0000" x="3630" y="0" width="830" height="1052" frameX="-29" frameY="-299" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0001" x="3630" y="0" width="830" height="1052" frameX="-29" frameY="-299" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0002" x="4510" y="0" width="830" height="1052" frameX="-29" frameY="-299" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0003" x="4510" y="0" width="830" height="1052" frameX="-29" frameY="-299" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0004" x="5390" y="0" width="874" height="1235" frameX="-29" frameY="-116" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0005" x="6314" y="0" width="1110" height="1351" frameX="-29" frameY="0" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0006" x="0" y="1401" width="1110" height="1351" frameX="-29" frameY="0" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0007" x="1160" y="1401" width="1110" height="1351" frameX="-29" frameY="0" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0008" x="1160" y="1401" width="1110" height="1351" frameX="-29" frameY="0" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0009" x="2320" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0010" x="2320" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0011" x="2320" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0012" x="2320" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0013" x="3171" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0014" x="3171" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0015" x="4022" y="1401" width="801" height="965" frameX="-29" frameY="-386" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0016" x="4873" y="1401" width="965" height="896" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0017" x="4873" y="1401" width="965" height="896" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0018" x="5888" y="1401" width="965" height="896" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0019" x="5888" y="1401" width="965" height="896" frameX="-29" frameY="-455" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0020" x="6903" y="1401" width="431" height="658" frameX="-236" frameY="-969" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0021" x="7384" y="1401" width="348" height="324" frameX="-236" frameY="-969" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion death0022" x="7384" y="1401" width="348" height="324" frameX="-236" frameY="-969" frameWidth="1139" frameHeight="1627"/>
+	<SubTexture name="minion entrance0000" x="0" y="2802" width="759" height="1199" frameX="-119" frameY="-89" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0001" x="0" y="2802" width="759" height="1199" frameX="-119" frameY="-89" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0002" x="809" y="2802" width="686" height="723" frameX="-134" frameY="-304" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0003" x="809" y="2802" width="686" height="723" frameX="-134" frameY="-304" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0004" x="1545" y="2802" width="651" height="905" frameX="-63" frameY="-51" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0005" x="1545" y="2802" width="651" height="905" frameX="-63" frameY="-51" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0006" x="2246" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0007" x="2246" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0008" x="3208" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0009" x="3208" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0010" x="4170" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0011" x="4170" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0012" x="5132" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0013" x="5132" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+	<SubTexture name="minion entrance0014" x="5132" y="2802" width="912" height="952" frameX="0" frameY="-3" frameWidth="912" frameHeight="1288"/>
+</TextureAtlas>
