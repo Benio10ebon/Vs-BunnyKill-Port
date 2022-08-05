@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF BUN.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF CRY0000" x="0" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0001" x="0" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0002" x="649" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0003" x="1298" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0004" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0005" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0006" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0007" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0008" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0009" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0010" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0011" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0012" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF CRY0013" x="1947" y="0" width="599" height="554"/>
+	<SubTexture name="GF IDLE0000" x="2596" y="0" width="599" height="554"/>
+	<SubTexture name="GF IDLE0001" x="3245" y="0" width="599" height="554"/>
+	<SubTexture name="GF IDLE0002" x="0" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0003" x="649" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0004" x="1298" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0005" x="1947" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0006" x="2596" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0007" x="3245" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0008" x="3245" y="604" width="599" height="554"/>
+	<SubTexture name="GF IDLE0009" x="0" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0010" x="649" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0011" x="649" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0012" x="649" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0013" x="1298" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0014" x="1298" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0015" x="1947" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0016" x="2596" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0017" x="3245" y="1208" width="599" height="554"/>
+	<SubTexture name="GF IDLE0018" x="0" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0019" x="649" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0020" x="1298" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0021" x="1947" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0022" x="2596" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0023" x="2596" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0024" x="2596" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0025" x="3245" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0026" x="3245" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0027" x="3245" y="1812" width="599" height="554"/>
+	<SubTexture name="GF IDLE0028" x="0" y="2416" width="599" height="554"/>
+	<SubTexture name="GF IDLE0029" x="0" y="2416" width="599" height="554"/>
+</TextureAtlas>
